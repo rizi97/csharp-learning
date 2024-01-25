@@ -1,0 +1,14 @@
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\bin\Debug\net8.0\cSharp_Fundamentals.exe
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\bin\Debug\net8.0\cSharp_Fundamentals.deps.json
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\bin\Debug\net8.0\cSharp_Fundamentals.runtimeconfig.json
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\bin\Debug\net8.0\cSharp_Fundamentals.dll
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\bin\Debug\net8.0\cSharp_Fundamentals.pdb
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\obj\Debug\net8.0\cSharp_Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\obj\Debug\net8.0\cSharp_Fundamentals.AssemblyInfoInputs.cache
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\obj\Debug\net8.0\cSharp_Fundamentals.AssemblyInfo.cs
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\obj\Debug\net8.0\cSharp_Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\obj\Debug\net8.0\cSharp_Fundamentals.dll
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\obj\Debug\net8.0\refint\cSharp_Fundamentals.dll
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\obj\Debug\net8.0\cSharp_Fundamentals.pdb
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\obj\Debug\net8.0\cSharp_Fundamentals.genruntimeconfig.cache
+C:\Users\muas\source\repos\cSharp_Training\HelloWorld\obj\Debug\net8.0\ref\cSharp_Fundamentals.dll
